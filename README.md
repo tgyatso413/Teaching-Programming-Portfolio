@@ -5,4 +5,5 @@ Module 1:
 
 [WP_Repeats Video](https://youtu.be/XN9JspzazRQ)
 
-Animal Parade
+[Animal Parade](https://youtube.com/shorts/KqzEhAHL2Cg)
+
