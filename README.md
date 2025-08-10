@@ -1,6 +1,8 @@
 ﻿# Teaching-Programming-Portfolio
 Module 1:
 
-[WP_Sequencing Video](https://youtu.be/-WGxt67Jodg)
+[WP_Sequencing Video](https://youtu.be/qlVlfHLoKVc)
 
-[WP_Repeats Video](https://youtu.be/aFuUaXgMeOc)
+[WP_Repeats Video](https://youtu.be/XN9JspzazRQ)
+
+Animal Parade
