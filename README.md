@@ -10,3 +10,5 @@ Module 1:
 Module 2:
 
 [WP_Nested_Repeats Video](https://youtu.be/YTBa9DtrEP8)
+
+[WP_Events Video](https://youtu.be/CI7Ttd-WAbQ)
