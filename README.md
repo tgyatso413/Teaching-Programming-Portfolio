@@ -7,3 +7,6 @@ Module 1:
 
 [Animal Parade](https://youtube.com/shorts/KqzEhAHL2Cg)
 
+Module 2:
+
+[WP_Nested_Repeats Video](https://youtu.be/YTBa9DtrEP8)
