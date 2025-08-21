@@ -14,3 +14,7 @@ Module 2:
 [WP_Events](https://youtu.be/CI7Ttd-WAbQ)
 
 [Write A Program](https://youtu.be/30_Q_cAbRbo)
+
+Module 3:
+
+[WP_Condiitonal_Loops](https://youtu.be/gdXd1cMBaRA)
