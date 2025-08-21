@@ -17,4 +17,5 @@ Module 2:
 
 Module 3:
 
-[WP_Condiitonal_Loops](https://youtu.be/gdXd1cMBaRA)
+[WP_Conditonal_Loops](https://youtu.be/gdXd1cMBaRA)
+
