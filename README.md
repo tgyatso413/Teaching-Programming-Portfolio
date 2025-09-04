@@ -29,3 +29,7 @@ Module 4:
 [Compound Conditionals](https://youtu.be/K_PLgzKo95o)
 
 [Abstraction](https://youtu.be/CUr_Kda2yfU)
+
+Module 5:
+
+[Lists](https://youtu.be/JP9RL5W6zyI)
